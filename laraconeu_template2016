@@ -1,32 +1,36 @@
 ## TUE 10:00 #1
-KEYNOTE
-TAYLOR OTWELL, @TAYLOROTWELL
+###KEYNOTE
+###TAYLOR OTWELL, @TAYLOROTWELL
 
+--
 
-
+* 5.3 is Awesome!!
 
 ##TUE 11:00 #1
-IOC CONTAINER BEYOND CONSTRUCTOR INJECTION
-@HANNESVDVREKEN
+###IOC CONTAINER BEYOND CONSTRUCTOR INJECTION
+###@HANNESVDVREKEN
 
-
-
-##TUE 11:00 #2
-BRINGING USER STORIES TO LIFE
-@RUBY_GEM
-
-
+--
 
 ##TUE 13:00 #1
-EMBRACE CHATOPS, STOP INSTALLING DEPLOYMENT SOFTWARE
-GESHAN MANANDHAR, @GESHAN
+###EMBRACE CHATOPS, STOP INSTALLING DEPLOYMENT SOFTWARE
+###GESHAN MANANDHAR, @GESHAN
 
+--
 
-
-##TUE 13:00 #2
-TDD IS DEAD, LONG LIVE TDD
-JON ACKER, @__JACKER__
-
+* "Putting tools right in the middle of conversation"
+* Builds transparent workflow
+* Hubot, Lita, Err - Bots
+* GitHub, box.com
+* Deploy anywhere, anytime
+* No SSH access needed
+* Everyone can see what was deployed and when it was deployed
+* AWS, Salt stack
+* Kubernetes
+* Lock an application for testing
+* https://github.com/geshan?tab=repositories
+* Deploybot guides
+* 
 
 
 ##TUE 14:00 #1
